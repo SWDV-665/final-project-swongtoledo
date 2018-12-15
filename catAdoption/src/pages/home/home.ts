@@ -29,4 +29,14 @@ export class HomePage {
     alert.present()
   }
 
+
+  sponsorAlert() {
+    let alert = this.alertCtrl.create({
+      title: 'New Sponser Friend!',
+      message: 'Thank you for sponsering me, Your donation will make my life so much better',
+      buttons: ['Ok']
+    });
+    alert.present()
+  }
+
 }
