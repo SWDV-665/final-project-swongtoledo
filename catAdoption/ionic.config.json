@@ -1,0 +1,7 @@
+{
+  "name": "catAdoption",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
